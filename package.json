@@ -1,0 +1,20 @@
+{
+  "name": "data_structure",
+  "version": "1.0.0",
+  "description": "Data Structure Problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rampalrajput/Data_Structure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rampalrajput/Data_Structure/issues"
+  },
+  "homepage": "https://github.com/rampalrajput/Data_Structure#readme"
+}
