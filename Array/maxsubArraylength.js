@@ -12,7 +12,6 @@ function maxSubArrayLength(arr, k) {
         }
         else{
         maxLength = Math.max(maxLength, right - left + 1);
-        console.log("maxLength", maxLength);
     }
     return maxLength;
  }
